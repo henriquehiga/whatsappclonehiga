@@ -5,6 +5,6 @@ Projeto com intuito de desenvolver habilidades na construção de layout, resgat
 
 Projeto hospedado utilizando deploy do firebase (hosting):
   https://projetos-395ca.web.app
-
-![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonemobile.jpeg?raw=true)
+  
 ![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonedesktop.PNG?raw=true)
+![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonemobile.jpeg?raw=true)
