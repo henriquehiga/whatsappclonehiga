@@ -7,4 +7,4 @@ Projeto hospedado utilizando deploy do firebase (hosting):
   https://projetos-395ca.web.app
   
 ![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonedesktop.PNG?raw=true)
-![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonemobile.jpeg?raw=true =300y)
+![alt text](https://github.com/henriquehiga/whatsappclonehiga/blob/master/whatsappclonemobile.jpeg?raw=true)
